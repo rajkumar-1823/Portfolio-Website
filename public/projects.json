@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Medical Report Analysis System",
+    "desc": "A Medical Records Web Application using React.js and Express.js to streamline patient data management for doctors, with PDF generation and SQL database integration.",
+    "image": "medical_report",
+    "category": "web",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/rajkumar-1823"
+    }
+  },
+  {
+    "name": "Timesheet Management App",
+    "desc": "A MERN stack Timesheet Application for efficient work hour logging with real-time validation, project task management, and role-based access control.",
+    "image": "timesheet_app",
+    "category": "web",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/rajkumar-1823"
+    }
+  },
+  {
+    "name": "Automatic Number Plate Recognition",
+    "desc": "An Authorized Vehicle Entry System using Python and Flask with YOLO algorithm for ANPR, managing vehicle data with an SQL database for secure entry control.",
+    "image": "anpr_system",
+    "category": "web",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/rajkumar-1823"
+    }
+  },
+  {
+    "name": "AI Office Mate",
+    "desc": "An intelligent AI-powered office assistant application featuring a smart chatbot interface, task management suggestions, calendar integration, and document summarization capabilities.",
+    "image": "ai_officemate",
+    "category": "web",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/rajkumar-1823"
+    }
+  }
+]

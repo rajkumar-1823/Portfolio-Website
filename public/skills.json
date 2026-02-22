@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript.png"
+    },
+    {
+        "name": "React",
+        "icon": "https://img.icons8.com/color/48/000000/react-native.png"
+    },
+    {
+        "name": "Node.js",
+        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+    },
+    {
+        "name": "Express.js",
+        "icon": "https://img.icons8.com/color/48/000000/express-js.png"
+    },
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "Tailwind CSS",
+        "icon": "https://img.icons8.com/color/48/000000/tailwindcss.png"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "Git",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/material-outlined/48/ffffff/github.png"
+    },
+    {
+        "name": "Kafka",
+        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-apache-kafka-is-a-distributed-streaming-platform-logo-shadow-tal-revivo.png"
+    }
+]

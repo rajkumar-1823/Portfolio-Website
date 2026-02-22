@@ -1,0 +1,42 @@
+{
+    "name": "portfolio-website",
+    "version": "1.0.0",
+    "description": "Rajkumar — Junior Software Developer | MERN Stack | Full-Stack Web Developer Portfolio",
+    "main": "index.html",
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rajkumar-1823/Portfolio-Website.git"
+    },
+    "keywords": [
+        "rajkumar",
+        "portfolio",
+        "web developer",
+        "full stack dev",
+        "mern stack",
+        "software developer",
+        "portfolio website",
+        "personal portfolio"
+    ],
+    "author": "Rajkumar <rajkumarcse18@gmail.com>",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jigar-sable/Portfolio-Website/issues"
+    },
+    "homepage": "https://jigarsable.netlify.app/",
+    "dependencies": {
+        "next": "^16.1.6",
+        "react": "^19.2.4",
+        "react-dom": "^19.2.4"
+    },
+    "devDependencies": {
+        "autoprefixer": "^10.4.24",
+        "postcss": "^8.5.6",
+        "tailwindcss": "^4.2.0"
+    }
+}
